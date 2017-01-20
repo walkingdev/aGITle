@@ -35,7 +35,7 @@ image_url: https://github.com/walkingdev/github/blob/master/media/banner-github.
 * **Parking**
   * Parking Esquirol => 23,00 € (c)
 
-**Total : 241,90 €**
+**Total : 310,80 €**
 —
 
 # Recettes

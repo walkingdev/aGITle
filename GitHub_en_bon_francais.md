@@ -28,8 +28,6 @@ Application de bureau multi-plate-forme (Mac, Windows, Linux) proposant une inte
 
 Site : [https://www.gitkraken.com](https://www.gitkraken.com)
 
-Note: au 12 janvier 2017, ne fonctionne pas sous Linux 32 bit
-
 ## Sparkleshare
 
 Sparkleshare est un logiciel libre qui permet de synchroniser automatiquement des dépots entre github, bitbucket ou autres instances Git et un dossier local sur un ordinateur, agissant effectivement comme une sorte de dropbox version Git.
